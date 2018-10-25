@@ -1,0 +1,3 @@
+http://github.com/tavanthuc/MyRespository.git
+username:tavanthuc
+password:tavanthuc1996
